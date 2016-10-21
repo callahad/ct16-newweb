@@ -330,7 +330,7 @@ _...is a Web without URLs still the Web?_
 
 # Thank You
 
-Slides & links at [github.com/callahad/mdc-newweb](https://github.com/callahad/mdc-newweb)
+Slides & links at [github.com/callahad/ct16-newweb](https://github.com/callahad/ct16-newweb)
 
 ___
 
